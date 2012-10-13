@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Copyright (c) 2012, Bo Fjord Jensen <bo@bxd.dk>
 All rights reserved.
